@@ -3,7 +3,8 @@
 ## Binary Search
 It searches for a specific target in the given data in no time.
 
-## Sorting
+## *Sorting*
+
 ### Bubble sort
 Sorts the given data in increasing order through multiple swaps
 
